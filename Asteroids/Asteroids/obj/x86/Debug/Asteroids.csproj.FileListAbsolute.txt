@@ -1,0 +1,85 @@
+C:\Users\Tom\Dropbox\Programming\XNA\Asteroids\Asteroids\Asteroids\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Tom\Dropbox\Programming\XNA\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\am_rend_all.xnb
+C:\Users\Tom\Dropbox\Programming\XNA\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\explosion.xnb
+C:\Users\Tom\Dropbox\Programming\XNA\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\missile.xnb
+C:\Users\Tom\Dropbox\Programming\XNA\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\particle.xnb
+C:\Users\Tom\Dropbox\Programming\XNA\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\shuttle1.xnb
+C:\Users\Tom\Dropbox\Programming\XNA\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\stars.xnb
+C:\Users\Tom\Dropbox\Programming\XNA\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\asteroid.xnb
+C:\Users\Tom\Dropbox\Programming\XNA\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Explode.xnb
+C:\Users\Tom\Dropbox\Programming\XNA\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Gunshot.xnb
+C:\Users\Tom\Dropbox\Programming\XNA\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\impact.xnb
+C:\Users\Tom\Dropbox\Programming\XNA\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Asteroids.exe
+C:\Users\Tom\Dropbox\Programming\XNA\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Asteroids.pdb
+C:\Users\Tom\Dropbox\Programming\XNA\Asteroids\Asteroids\Asteroids\obj\x86\Debug\Asteroids.exe
+C:\Users\Tom\Dropbox\Programming\XNA\Asteroids\Asteroids\Asteroids\obj\x86\Debug\Asteroids.pdb
+C:\Users\Tom\Dropbox\Programming\XNA\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\font.xnb
+C:\Users\tnb65846\Dropbox\Programming\XNA\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\am_rend_all.xnb
+C:\Users\tnb65846\Dropbox\Programming\XNA\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\explosion.xnb
+C:\Users\tnb65846\Dropbox\Programming\XNA\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\missile.xnb
+C:\Users\tnb65846\Dropbox\Programming\XNA\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\particle.xnb
+C:\Users\tnb65846\Dropbox\Programming\XNA\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\shuttle1.xnb
+C:\Users\tnb65846\Dropbox\Programming\XNA\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\stars.xnb
+C:\Users\tnb65846\Dropbox\Programming\XNA\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\asteroid.xnb
+C:\Users\tnb65846\Dropbox\Programming\XNA\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Explode.xnb
+C:\Users\tnb65846\Dropbox\Programming\XNA\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\Gunshot.xnb
+C:\Users\tnb65846\Dropbox\Programming\XNA\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\impact.xnb
+C:\Users\tnb65846\Dropbox\Programming\XNA\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Content\font.xnb
+C:\Users\tnb65846\Dropbox\Programming\XNA\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Asteroids.exe
+C:\Users\tnb65846\Dropbox\Programming\XNA\Asteroids\Asteroids\Asteroids\bin\x86\Debug\Asteroids.pdb
+C:\Users\tnb65846\Dropbox\Programming\XNA\Asteroids\Asteroids\Asteroids\obj\x86\Debug\Asteroids.csprojResolveAssemblyReference.cache
+C:\Users\tnb65846\Dropbox\Programming\XNA\Asteroids\Asteroids\Asteroids\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\tnb65846\Dropbox\Programming\XNA\Asteroids\Asteroids\Asteroids\obj\x86\Debug\Asteroids.exe
+C:\Users\tnb65846\Dropbox\Programming\XNA\Asteroids\Asteroids\Asteroids\obj\x86\Debug\Asteroids.pdb
+C:\Users\Tom\Dropbox\Programming\XNA\Asteroids\Asteroids\Asteroids\obj\x86\Debug\Asteroids.csprojResolveAssemblyReference.cache
+C:\Users\tnb65846\Dropbox\Programming\XNA\Asteroids - Copy (2)\Asteroids\Asteroids\bin\x86\Debug\Content\am_rend_all.xnb
+C:\Users\tnb65846\Dropbox\Programming\XNA\Asteroids - Copy (2)\Asteroids\Asteroids\bin\x86\Debug\Content\explosion.xnb
+C:\Users\tnb65846\Dropbox\Programming\XNA\Asteroids - Copy (2)\Asteroids\Asteroids\bin\x86\Debug\Content\missile.xnb
+C:\Users\tnb65846\Dropbox\Programming\XNA\Asteroids - Copy (2)\Asteroids\Asteroids\bin\x86\Debug\Content\particle.xnb
+C:\Users\tnb65846\Dropbox\Programming\XNA\Asteroids - Copy (2)\Asteroids\Asteroids\bin\x86\Debug\Content\shuttle1.xnb
+C:\Users\tnb65846\Dropbox\Programming\XNA\Asteroids - Copy (2)\Asteroids\Asteroids\bin\x86\Debug\Content\stars.xnb
+C:\Users\tnb65846\Dropbox\Programming\XNA\Asteroids - Copy (2)\Asteroids\Asteroids\bin\x86\Debug\Content\asteroid.xnb
+C:\Users\tnb65846\Dropbox\Programming\XNA\Asteroids - Copy (2)\Asteroids\Asteroids\bin\x86\Debug\Content\Explode.xnb
+C:\Users\tnb65846\Dropbox\Programming\XNA\Asteroids - Copy (2)\Asteroids\Asteroids\bin\x86\Debug\Content\Gunshot.xnb
+C:\Users\tnb65846\Dropbox\Programming\XNA\Asteroids - Copy (2)\Asteroids\Asteroids\bin\x86\Debug\Content\impact.xnb
+C:\Users\tnb65846\Dropbox\Programming\XNA\Asteroids - Copy (2)\Asteroids\Asteroids\bin\x86\Debug\Content\font.xnb
+C:\Users\tnb65846\Dropbox\Programming\XNA\Asteroids - Copy (2)\Asteroids\Asteroids\bin\x86\Debug\Asteroids.exe
+C:\Users\tnb65846\Dropbox\Programming\XNA\Asteroids - Copy (2)\Asteroids\Asteroids\bin\x86\Debug\Asteroids.pdb
+C:\Users\tnb65846\Dropbox\Programming\XNA\Asteroids - Copy (2)\Asteroids\Asteroids\obj\x86\Debug\Asteroids.csprojResolveAssemblyReference.cache
+C:\Users\tnb65846\Dropbox\Programming\XNA\Asteroids - Copy (2)\Asteroids\Asteroids\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\tnb65846\Dropbox\Programming\XNA\Asteroids - Copy (2)\Asteroids\Asteroids\obj\x86\Debug\Asteroids.exe
+C:\Users\tnb65846\Dropbox\Programming\XNA\Asteroids - Copy (2)\Asteroids\Asteroids\obj\x86\Debug\Asteroids.pdb
+C:\Users\tnb65846\Dropbox\Programming\XNA\Asteroids - Tom Brannan\Asteroids\Asteroids\bin\x86\Debug\Content\am_rend_all.xnb
+C:\Users\tnb65846\Dropbox\Programming\XNA\Asteroids - Tom Brannan\Asteroids\Asteroids\bin\x86\Debug\Content\explosion.xnb
+C:\Users\tnb65846\Dropbox\Programming\XNA\Asteroids - Tom Brannan\Asteroids\Asteroids\bin\x86\Debug\Content\missile.xnb
+C:\Users\tnb65846\Dropbox\Programming\XNA\Asteroids - Tom Brannan\Asteroids\Asteroids\bin\x86\Debug\Content\particle.xnb
+C:\Users\tnb65846\Dropbox\Programming\XNA\Asteroids - Tom Brannan\Asteroids\Asteroids\bin\x86\Debug\Content\shuttle1.xnb
+C:\Users\tnb65846\Dropbox\Programming\XNA\Asteroids - Tom Brannan\Asteroids\Asteroids\bin\x86\Debug\Content\stars.xnb
+C:\Users\tnb65846\Dropbox\Programming\XNA\Asteroids - Tom Brannan\Asteroids\Asteroids\bin\x86\Debug\Content\asteroid.xnb
+C:\Users\tnb65846\Dropbox\Programming\XNA\Asteroids - Tom Brannan\Asteroids\Asteroids\bin\x86\Debug\Content\Explode.xnb
+C:\Users\tnb65846\Dropbox\Programming\XNA\Asteroids - Tom Brannan\Asteroids\Asteroids\bin\x86\Debug\Content\Gunshot.xnb
+C:\Users\tnb65846\Dropbox\Programming\XNA\Asteroids - Tom Brannan\Asteroids\Asteroids\bin\x86\Debug\Content\impact.xnb
+C:\Users\tnb65846\Dropbox\Programming\XNA\Asteroids - Tom Brannan\Asteroids\Asteroids\bin\x86\Debug\Content\font.xnb
+C:\Users\tnb65846\Dropbox\Programming\XNA\Asteroids - Tom Brannan\Asteroids\Asteroids\bin\x86\Debug\Asteroids.exe
+C:\Users\tnb65846\Dropbox\Programming\XNA\Asteroids - Tom Brannan\Asteroids\Asteroids\bin\x86\Debug\Asteroids.pdb
+C:\Users\tnb65846\Dropbox\Programming\XNA\Asteroids - Tom Brannan\Asteroids\Asteroids\obj\x86\Debug\Asteroids.csprojResolveAssemblyReference.cache
+C:\Users\tnb65846\Dropbox\Programming\XNA\Asteroids - Tom Brannan\Asteroids\Asteroids\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\tnb65846\Dropbox\Programming\XNA\Asteroids - Tom Brannan\Asteroids\Asteroids\obj\x86\Debug\Asteroids.exe
+C:\Users\tnb65846\Dropbox\Programming\XNA\Asteroids - Tom Brannan\Asteroids\Asteroids\obj\x86\Debug\Asteroids.pdb
+D:\Tom\EVERYTHING\docs\School\Courses\2014 Spring\Graphics\XNA\Asteroids - Tom Brannan\Asteroids\Asteroids\bin\x86\Debug\Content\am_rend_all.xnb
+D:\Tom\EVERYTHING\docs\School\Courses\2014 Spring\Graphics\XNA\Asteroids - Tom Brannan\Asteroids\Asteroids\bin\x86\Debug\Content\explosion.xnb
+D:\Tom\EVERYTHING\docs\School\Courses\2014 Spring\Graphics\XNA\Asteroids - Tom Brannan\Asteroids\Asteroids\bin\x86\Debug\Content\missile.xnb
+D:\Tom\EVERYTHING\docs\School\Courses\2014 Spring\Graphics\XNA\Asteroids - Tom Brannan\Asteroids\Asteroids\bin\x86\Debug\Content\particle.xnb
+D:\Tom\EVERYTHING\docs\School\Courses\2014 Spring\Graphics\XNA\Asteroids - Tom Brannan\Asteroids\Asteroids\bin\x86\Debug\Content\shuttle1.xnb
+D:\Tom\EVERYTHING\docs\School\Courses\2014 Spring\Graphics\XNA\Asteroids - Tom Brannan\Asteroids\Asteroids\bin\x86\Debug\Content\stars.xnb
+D:\Tom\EVERYTHING\docs\School\Courses\2014 Spring\Graphics\XNA\Asteroids - Tom Brannan\Asteroids\Asteroids\bin\x86\Debug\Content\asteroid.xnb
+D:\Tom\EVERYTHING\docs\School\Courses\2014 Spring\Graphics\XNA\Asteroids - Tom Brannan\Asteroids\Asteroids\bin\x86\Debug\Content\Explode.xnb
+D:\Tom\EVERYTHING\docs\School\Courses\2014 Spring\Graphics\XNA\Asteroids - Tom Brannan\Asteroids\Asteroids\bin\x86\Debug\Content\Gunshot.xnb
+D:\Tom\EVERYTHING\docs\School\Courses\2014 Spring\Graphics\XNA\Asteroids - Tom Brannan\Asteroids\Asteroids\bin\x86\Debug\Content\impact.xnb
+D:\Tom\EVERYTHING\docs\School\Courses\2014 Spring\Graphics\XNA\Asteroids - Tom Brannan\Asteroids\Asteroids\bin\x86\Debug\Content\font.xnb
+D:\Tom\EVERYTHING\docs\School\Courses\2014 Spring\Graphics\XNA\Asteroids - Tom Brannan\Asteroids\Asteroids\bin\x86\Debug\Asteroids.exe
+D:\Tom\EVERYTHING\docs\School\Courses\2014 Spring\Graphics\XNA\Asteroids - Tom Brannan\Asteroids\Asteroids\bin\x86\Debug\Asteroids.pdb
+D:\Tom\EVERYTHING\docs\School\Courses\2014 Spring\Graphics\XNA\Asteroids - Tom Brannan\Asteroids\Asteroids\obj\x86\Debug\Asteroids.csprojResolveAssemblyReference.cache
+D:\Tom\EVERYTHING\docs\School\Courses\2014 Spring\Graphics\XNA\Asteroids - Tom Brannan\Asteroids\Asteroids\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Tom\EVERYTHING\docs\School\Courses\2014 Spring\Graphics\XNA\Asteroids - Tom Brannan\Asteroids\Asteroids\obj\x86\Debug\Asteroids.exe
+D:\Tom\EVERYTHING\docs\School\Courses\2014 Spring\Graphics\XNA\Asteroids - Tom Brannan\Asteroids\Asteroids\obj\x86\Debug\Asteroids.pdb
